@@ -1,0 +1,4 @@
+flask==0.10.1
+bravado-core==4.6.1
+jsonschema==2.5.1
+pyyaml==3.11
